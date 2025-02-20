@@ -1,5 +1,5 @@
-learn(){
-   #i am learning bash
-   #welcome to bash
+sample_exam() {
+
+   go
 }
-learn
+sample_exam
