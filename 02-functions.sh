@@ -1,5 +1,4 @@
 sample_exam() {
-
-   go
+echo example
 }
 sample_exam
